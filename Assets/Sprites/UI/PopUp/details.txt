@@ -1,0 +1,20 @@
+HOW TO PLAY, INFORMATION & REVIEWING CHALLENGE:
+
+tittle: 39,74 pt (font: basic title)
+text: 14 pt (font:RomanD)
+
+
+LEVEL COMPLETE & CONGRATULATION:
+
+font: basic title
+tittle: 39,74 pt
+your score: 25 pt
+score: 100 pt
+
+
+----------------
+
+Alpha:
+
+HEX: edeef0
+Opacity: 80%

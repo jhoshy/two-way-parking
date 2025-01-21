@@ -1,0 +1,6 @@
+btn_play: 60,26 pt
+btn_howtoplay: 39,74 pt
+btn_close: 30 pt
+btn_gotit: 30 pt
+btn_continue: 30 pt
+btn_replay: 32,58 pt

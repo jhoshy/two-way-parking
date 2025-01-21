@@ -1,0 +1,165 @@
+{
+  "version": "1.0",
+  "_meta": {
+    "maxChars": {
+		"titlePlay": 550,
+		"titleClose": 550,
+		"titleOkay": 550,
+		"titleLevelSelect": 550,
+		"titleContinue": 550,
+		"titleDone": 550,
+		"titleLevelComplete":550,
+		"titleScore":550,	
+		"titleCongratulations": 550,	
+		"titleFinalScore": 550,
+		"titleConfirm": 550,
+		
+		"titleHowToPlay": 550,	
+		"bodyHowToPlay": 550,
+		
+		"bodyDirectionalArrows": 550,
+		"bodyParkHere": 550,
+		
+		"titleLevelInfo":550,
+		"titleDidYouKnow":550,
+		
+		"bodyLevelInfo_1":550,
+		"bodyLevelEnd_1":550,
+		"bodyDidYouKnow_1":550,		
+		
+		"bodyLevelInfo_2":550,
+		"bodyLevelEnd_2":550,		
+		"bodyDidYouKnow_2":550,
+		
+		"bodyLevelInfo_3":550,
+		"bodyLevelEnd_3":550,
+		"bodyDidYouKnow_3":550,
+		
+		"bodyLevelInfo_4":550,
+		"bodyLevelEnd_4":550,
+		"bodyDidYouKnow_4":550,
+				
+		"bodyLevelInfo_5":550,
+		"bodyLevelEnd_5":550,
+		"bodyDidYouKnow_5":550,
+
+		
+		"titleTotal":550,
+	
+		"titleColumn1_1":550,
+		"titleColumn2_1":550,
+		"titleLine1_1":550,
+		"titleLine2_1":550,
+	
+		"titleColumn1_2":550,
+		"titleColumn2_2":550,
+		"titleLine1_2":550,
+		"titleLine2_2":550,
+	
+		"titleColumn1_3":550,
+		"titleColumn2_3":550,
+		"titleLine1_3":550,
+		"titleLine2_3":550,
+	
+		"titleColumn1_4":550,
+		"titleColumn2_4":550,
+		"titleLine1_4":550,
+		"titleLine2_4":550,
+		"titleLine3_4":550,
+	
+		"titleColumn1_5":550,
+		"titleColumn2_5":550,
+		"titleLine1_5":550,
+		"titleLine2_5":550,
+		"titleLine3_5":550,
+		"titleLine4_5":550,
+		
+		"titleStage":550,
+		"titleYes":550,
+		"titleNo":550,
+		"titleReplay":550,
+		"titleWrongAnswer":550,
+		"titleTryAgain": 550
+    }
+  },
+  "en": {
+    "titlePlay": "Play",
+	"titleClose": "Close",
+	"titleOkay": "Got it!",
+	"titleLevelSelect": "Level Select",
+	"titleContinue": "Continue",
+	"titleDone": "Done",
+	"titleLevelComplete":"Level complete!",
+	"titleScore":"Your score",	
+	"titleCongratulations": "Congratulations!",	
+	"titleFinalScore": "Your final score",
+	"titleConfirm": "Confirm",
+	
+	"titleHowToPlay": "How to play",	
+	"bodyHowToPlay": "Click on a car to start driving it. Drive the cars to the spot they are related based on the two-way table missing variables.\nIf you place all cars, the game will finish. If the answer is right, you win, if not, you can try again!\nAfter you construct the table, you have to analyze it and answer a question related to its data.",
+	
+	"bodyDirectionalArrows": "PRESS THE DIRECTIONAL ARROWS ON YOUR KEYBOARD TO DRIVE THE CAR",
+	"bodyParkHere": "PARK HERE",
+	
+	"titleLevelInfo":"Level information",	
+	"titleDidYouKnow":"Review",
+	
+	"bodyLevelInfo_1":"Every car on the scene has a number that represents its place on the table. You have to construct the table with the right answers. Click on the car that is not parked yet, and then drive it to its corresponding parking spot.",
+	"bodyLevelEnd_1":"The car you parked was the number 12. It could be represented by the sum of the content from the second line, which is 2 + 10 = 12. From now on, pay attention to the data from the table! For the next levels you will have to analyze and make association of patterns in order to win the last level star.",
+	"bodyDidYouKnow_1":"Two-way tables organize data based on two categorical variables. ",	
+
+	"bodyLevelInfo_2":"The following table painted on the ground of the parking lot represents a group of students who took the same math test that were surveyed and asked if they studied for at least one hour and if they passed the test.",
+	"bodyLevelEnd_2":"Can we tell, by looking at the data, that  the MORE someone STUDY the HIGHER are the chances they will pass on the test?",
+	"bodyDidYouKnow_2":"The cars you parked filled the row and columns that represented the sum of each row and column. Those total values appear in the margins and are the marginal sums of the table. ",
+	
+	"bodyLevelInfo_3":"Results from a survey where students were asked if they play an instrument and if they play a sport.",
+	"bodyLevelEnd_3":" Looking at the data, is it correct to say that, proportionally, most students who play an instrument also play a sport?",
+	"bodyDidYouKnow_3":"Analyzing the frequencies from the table of the last level we understand that the data showed an influence on how usually students who play an instrument won't play a sport.",
+	
+	"bodyLevelInfo_4":"Results from a survey where the students were asked if they plan to attend the school musical.",
+	"bodyLevelEnd_4":"Is there solid evidence on the association of higher or lower grades having influence on the fact that students are going to the musical or not?",	
+	"bodyDidYouKnow_4":"A pattern that we could try to find to describe the last survey is an increasing proportional difference between both variables. Looking at the table we can see that this pattern didn't happen, so that is why we can say there is little to no evidence for that association.",	
+	
+	"bodyLevelInfo_5":"A random group of high school students were surveyed and asked if they plan to attend the homecoming football game. ",	
+	"bodyLevelEnd_5":"Judging by the proportional difference in the frequencies shown, is there some evidence that the older a student is, the more they want to attend to the game?",
+	
+	"bodyDidYouKnow_5":"Nice job! You rock at analyzing data and you are also a good driver! ",
+	
+	"titleTotal": "Total",
+	
+	"titleColumn1_1":"Data 1",
+	"titleColumn2_1":"Data 2",
+	"titleLine1_1":"Result 1",
+	"titleLine2_1":"Result 2",
+	
+	"titleColumn1_2":"Studied < 1 Hour",
+	"titleColumn2_2":"Studied > 1 Hour",
+	"titleLine1_2":"Passed",
+	"titleLine2_2":"Did Not Pass",
+	
+	"titleColumn1_3":"Plays a Sport",
+	"titleColumn2_3":"Does Not Play a Sport",
+	"titleLine1_3":"Plays an Instrument",
+	"titleLine2_3":"Does Not Play an Instrument",
+	
+	"titleColumn1_4":"Going to the Musical",
+	"titleColumn2_4":"Not going to the Musical",	
+	"titleLine1_4":"6th Grade",
+	"titleLine2_4":"7th Grade",
+	"titleLine3_4":"8th Grade",
+	
+	"titleColumn1_5":"Going",
+	"titleColumn2_5":"Not Going",	
+	"titleLine1_5":"Freshman",
+	"titleLine2_5":"Sophomore",
+	"titleLine3_5":"Junior",
+	"titleLine4_5":"Senior",		
+	
+	"titleStage": "Stage",
+	"titleYes": "Yes",
+	"titleNo": "No",
+	"titleReplay": "Replay",
+	"titleWrongAnswer": "Some cars are in the wrong spot,\nBut don't Give up",
+	"titleTryAgain": "Try Again"
+  }
+}
